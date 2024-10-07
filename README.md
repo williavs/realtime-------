@@ -79,3 +79,8 @@ The codebase includes various utility functions for tasks such as structured out
 - https://platform.openai.com/playground/realtime
 - https://github.com/Azure-Samples/aoai-realtime-audio-sdk/blob/main/README.md
 - https://docs.astral.sh/uv/
+
+
+## Acknoledgements
+
+Based on [https://github.com/disler/poc-realtime-ai-assistant] -----Thanks for laying the foundation Dan!
